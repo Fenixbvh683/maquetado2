@@ -1,0 +1,43 @@
+/*.bg-color{
+
+background-color: rgb(138, 138, 158);
+
+}*/
+
+.letranegra{
+
+fiter: invert(1);
+-webkit-filter: invert(1);
+-moz-filter: invert(1)
+
+}
+
+.list-group{
+
+--bs-list-group-bg:transparen;
+
+}
+
+.fa-brands.fa-linkedin.fa-2x:hover{
+
+    color: blue;
+
+}
+
+.fa-brands.fa-github.fa-2x:hover{
+
+color: blueviolet;
+
+}
+
+.fa-brands.fa-facebook.fa-2x:hover{
+
+color: blue;
+
+}
+
+.fa-sharp.fa-solid.fa-bridge-lock.fa-2x:hover{
+
+color: brown;
+
+}
