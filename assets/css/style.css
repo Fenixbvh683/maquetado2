@@ -111,7 +111,23 @@ opacity: 0.3;
         }
 
         .registro{
-            
+
             height: 75vh;
+
+        }
+
+        .perfil{
+            width: 50%;
+        }
+
+        .letra{
+
+            font-size: 1.5rem;
+        }
+
+        .link{
+
+            text-decoration: none;
+            color: #000;
 
         }
